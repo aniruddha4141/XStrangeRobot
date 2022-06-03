@@ -30,7 +30,7 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/TheAnnyOP"> <img src="https://img.shields.io/badge/TheAnnyOP-User-green?style=for-the-badge&logo=telegram" alt="TheAnnyOP on Telegram" /> </a>
+<a href="https://t.me/aniruddha_414"> <img src="https://img.shields.io/badge/TheAnnyOP-User-green?style=for-the-badge&logo=telegram" alt="TheAnnyOP on Telegram" /> </a>
 <a href="https://t.me/XStrangeSupport"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
 <a href="https://t.me/XstrangeUpdate"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
